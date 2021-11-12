@@ -37,10 +37,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
+
   </tr>
      <td>Kahoot
    </td>
@@ -54,10 +51,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
+
   </tr>
       <td>Kahoot
    </td>
@@ -71,10 +65,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
+
   </tr>
       <td>Kahoot
    </td>
@@ -88,10 +79,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
+
   </tr>
        <td>Kahoot
    </td>
@@ -105,10 +93,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
+
   </tr>
 </table>
 

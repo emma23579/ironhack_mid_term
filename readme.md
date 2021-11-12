@@ -11,21 +11,21 @@
 <table>
   <tr>
    </td>
-   <td>**Weekend**
+   <td><b>Weekend</b>
    </td>
-   <td>**Monday**
+   <td><b>Monday</b>
    </td>
-   <td>**Tuesday**
+   <td><b>uesday</b>
    </td>
-   <td>**Wednesday**
+   <td><b>Wednesday</b>
    </td>
-   <td>**Thursday**
+   <td><b>Thursday</b>
    </td>
-   <td>**Friday**
+   <td><b>Friday</b>
    </td>
   </tr>
   <tr>
-   <td>Data cleaning - *Hong*
+   <td>Data cleaning - <k>Hong</k>
      Steps of modeling
      Initial data cleaning
    </td>

@@ -11,7 +11,7 @@
 <table>
   <tr>
    </td>
-   <td>
+   <td>Weekend
    </td>
    <td>Monday
    </td>

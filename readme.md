@@ -1,7 +1,10 @@
 # Midterm Project
 
-##Overview:
+## Overview:
 #### Team:
 - Emma
 - Hong
 - Raphael
+#### Topic:
+
+#### 

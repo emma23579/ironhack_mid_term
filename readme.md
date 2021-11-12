@@ -25,7 +25,23 @@
    </td>
   </tr>
   <tr>
-   <td>Kahoot
+   <td>Data cleaning - Hong
+     Steps of modeling
+     Initial data cleaning
+   </td>
+   <td>Project Plan - Raphael
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+
+  </tr>
+     <td>Project Plan - Raphael
    </td>
    <td>Lecture
    </td>
@@ -39,7 +55,9 @@
    </td>
 
   </tr>
-     <td>Kahoot
+      <td>Explore Data - Emma:
+  Handle Null/Nan-Values
+  Handel Outliers
    </td>
    <td>Lecture
    </td>
@@ -53,7 +71,7 @@
    </td>
 
   </tr>
-      <td>Kahoot
+      <td>Divide/Encode Numeric/Categorical - Raphael
    </td>
    <td>Lecture
    </td>
@@ -67,21 +85,7 @@
    </td>
 
   </tr>
-      <td>Kahoot
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-       <td>Kahoot
+       <td>Day 1
    </td>
    <td>Lecture
    </td>

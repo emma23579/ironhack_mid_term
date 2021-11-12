@@ -25,11 +25,11 @@
    </td>
   </tr>
   <tr>
-   <td>Data cleaning - <k>Hong</k>
-     Steps of modeling
+   <td>Data cleaning - Hong<br>
+     Steps of modeling<br>
      Initial data cleaning
    </td>
-   <td>Project Plan - *Raphael*
+   <td>Project Plan - Raphael
    </td>
    <td>Break
    </td>
@@ -41,7 +41,7 @@
    </td>
 
   </tr>
-     <td>Project Plan - *Raphael*
+     <td>Project Plan - Raphael
    </td>
    <td>Lecture
    </td>
@@ -55,8 +55,8 @@
    </td>
 
   </tr>
-      <td>Explore Data - *Emma*:
-  Handle Null/Nan-Values
+      <td>Explore Data - Emma <br>
+  Handle Null/Nan-Values<br>
   Handel Outliers
    </td>
    <td>Lecture
@@ -71,7 +71,7 @@
    </td>
 
   </tr>
-      <td>Divide/Encode Numeric/Categorical - *Raphael*
+      <td>Divide/Encode Numeric/Categorical - Raphael
    </td>
    <td>Lecture
    </td>

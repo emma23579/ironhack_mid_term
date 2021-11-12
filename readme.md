@@ -11,25 +11,25 @@
 <table>
   <tr>
    </td>
-   <td>Weekend
+   <td>**Weekend**
    </td>
-   <td>Monday
+   <td>**Monday**
    </td>
-   <td>Tuesday
+   <td>**Tuesday**
    </td>
-   <td>Wednesday
+   <td>**Wednesday**
    </td>
-   <td>Thursday
+   <td>**Thursday**
    </td>
-   <td>Friday
+   <td>**Friday**
    </td>
   </tr>
   <tr>
-   <td>Data cleaning - Hong
+   <td>Data cleaning - *Hong*
      Steps of modeling
      Initial data cleaning
    </td>
-   <td>Project Plan - Raphael
+   <td>Project Plan - *Raphael*
    </td>
    <td>Break
    </td>
@@ -41,7 +41,7 @@
    </td>
 
   </tr>
-     <td>Project Plan - Raphael
+     <td>Project Plan - *Raphael*
    </td>
    <td>Lecture
    </td>
@@ -55,7 +55,7 @@
    </td>
 
   </tr>
-      <td>Explore Data - Emma:
+      <td>Explore Data - *Emma*:
   Handle Null/Nan-Values
   Handel Outliers
    </td>
@@ -71,7 +71,7 @@
    </td>
 
   </tr>
-      <td>Divide/Encode Numeric/Categorical - Raphael
+      <td>Divide/Encode Numeric/Categorical - *Raphael*
    </td>
    <td>Lecture
    </td>
@@ -85,7 +85,7 @@
    </td>
 
   </tr>
-       <td>Day 1
+       <td>
    </td>
    <td>Lecture
    </td>

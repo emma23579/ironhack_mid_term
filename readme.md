@@ -59,6 +59,57 @@
    <td>Lab
    </td>
   </tr>
+      <td>Kahoot
+   </td>
+   <td>Lecture
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+   <td>Lunch Break
+   </td>
+   <td>Lab
+   </td>
+  </tr>
+      <td>Kahoot
+   </td>
+   <td>Lecture
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+   <td>Lunch Break
+   </td>
+   <td>Lab
+   </td>
+  </tr>
+       <td>Kahoot
+   </td>
+   <td>Lecture
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+   <td>Lunch Break
+   </td>
+   <td>Lab
+   </td>
+  </tr>
 </table>
 
 

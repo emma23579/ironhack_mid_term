@@ -27,7 +27,7 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 
 #### 1.3 Timeline
 ##### Project topics:
-<p style="color:MediumSeaGreen;">Data cleaning</p>
+<font ="color:MediumSeaGreen;">Data cleaning</font >
 <p style="color:Orange;">Explore Data</p>
 <p style="color:SlateBlue;">Process Data</p>
 <p style="color:Yellow;">Apply Model</p>

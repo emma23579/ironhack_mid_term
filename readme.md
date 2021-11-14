@@ -27,84 +27,27 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 ---
 ## 2 Timeline
 ##### Project topics:
-<span style="MediumSeaGreen">Data cleaning</span>
-<span style="color:Orange;">Explore Data</p>
-<font color="color:SlateBlue;">Process Data</font>
-<p style="color:Yellow;">Apply Model</p>
-<p style="color:Gray;">Validate</p>
-<p style="color:DodgerBlue;">Visualization(Tableau)</p>
-<p style="color:MediumVioletRed;">Optimize Model/Workbook</p>
-Presentation
-<table>
-  <tr>
-   </td>
-   <td><b>Weekend</b>
-   </td>
-   <td><b>Monday</b>
-   </td>
-   <td><b>uesday</b>
-   </td>
-   <td><b>Wednesday</b>
-   </td>
-   <td><b>Thursday</b>
-   </td>
-   <td><b>Friday</b>
-   </td>
-  </tr>
-  <tr>
-   <td>
-     -Steps of modeling -Hong<br>
-     -Initial data cleaning -H<br>
-     -Project Plan - Raphael<br>
-    -Handle Null/Nan-Values -Emma<br>
-    -Handle Outliers -E<br>
-     -Divide/Encode Numeric/Categorical -R<br>
-   </td>
-   <td>
-     Goal: Building first model
-     
-     - Plot for first impression - together<br>
-     -Merge and normalize data - R<br>
-     -x-y /train-test split - R<br>
-     -Choose and train model - E<br>
-     -Find design reference - H<br>
-     -Draw sketch of story - H<br>
-   </td>
-   <td>
-     Goal: Discuss Design / Second optimized model
-     
-     -interpret model - E<br>
-     -Validate model - E<br>
-     -Optimzie data - E<br>
-     -Clean notebook -E/R <br>
-     -Reduce no. of coefficients - R<br>
-     -Collect design materials - H<br>
-     -Ploting - H<br>
+Data cleaning
+Explore Data
+Process Data
+Apply Model
+Validate
+Visualization(Tableau)
+Optimize Model/Workbook
+Preparing Presentation
+
+
+| Weekend       | Monday         | Tuesday        |Wednesday      | Thursday      | Friday        |
+| ------------- |:--------------:|:--------------:|:-------------:|:-------------:|:-------------:|
+|              |Goal: Building first model|Goal: Discuss Design<br>Second optimized model     | Goal: Visulataion (Tableau)<br>Adding additional Information     | Goal: Rehearsal    |  Presentation | 
+|Steps of modeling -H|Divide/Encode Numeric/Categorical -R| interpret model - E    |Layout design - H     |Test function and data- H     |  | 
+| Initial data cleaning -H      | Plot first impression - together    | Validate model - E    | Sketch of the presentation - E/R    |Add final data/charts - E      |   | 
+| Project Plan - R | x-y /train-test split - R   |  Optimzie data - E  |Write text for presentation - E     | Final version presentation - R    |   | 
+| Handle Null/Nan-Values -E|x-y /train-test split - R  | Clean notebook -E/R    |Clean workbook - R     |  Rehearsal of presentation   |   | 
+| Handle Outliers -E|Choose and train model - E     |Reduce no. of coefficients - R     | Design presentation - R    |   | 
+||Find design reference - H|Collect design materials - H|1st version of presentation - E||
+||Draw sketch of story - H|Ploting - H|||
+
   
-   </td>
-   <td>
-     Goal: Visulataion (Tableau) / Adding additional Information
-     
-     -Layout design - H<br>
-     -Sketch of the presentation - E/R<br>
-     -Write text for presentation</p> - E<br>
-     -Clean workbook - R<br>
-     -Design presentation - R<br>
-     -1st version of presentation - E<br>
-      
-   </td>
-   <td
-     Goal: Rehearsal
-       
-     -Test function and data- H<br>
-     -Add final data/charts - E<br>
-     -Final version presentation - R<br>
-     -Rehearsal of presentation
-   </td>
-   <td>
-     <p style="color:#66ffff;">Presentation</p>
-   </td>
-  </tr>
-</table>
 
 

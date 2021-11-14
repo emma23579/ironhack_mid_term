@@ -26,7 +26,15 @@ All predicting variables were divided into the following broad categories:
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
 
 #### 1.3 Timeline
-##### 
+##### Project topics:
+<p style="color:MediumSeaGreen;">Data cleaning</p>
+<p style="color:Orange;">Explore Data</p>
+<p style="color:SlateBlue;">Process Data</p>
+<p style="color:Yellow;">Apply Model</p>
+<p style="color:Gray;">Validate</p>
+<p style="color:DodgerBlue;">Visualization(Tableau)</p>
+<p style="color:MediumVioletRed;">Optimize Model/Workbook</p>
+<p style="color:#66ffff;">Presentation</p>
 <table>
   <tr>
    </td>
@@ -45,54 +53,52 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
   </tr>
   <tr>
    <td>
-     - Data cleaning - Hong<br>
-     - Steps of modeling - Hong<br>
-     - Initial data cleaning - Hong<br>
+     - <p style="color:MediumSeaGreen;">Steps of modeling</p> - Hong<br>
+     - <p style="color:MediumSeaGreen;">Initial data cleaning</p> - Hong<br>
      - Project Plan - Raphael<br>
-     - Explore Data - Emma <br>
-    - Handle Null/Nan-Values - Emma<br>
-    - Handle Outliers -Emma<br>
-     - Divide/Encode Numeric/Categorical - Raphael<br>
+    - <p style="color:Orange;">Handle Null/Nan-Values</p> - Emma<br>
+    - <p style="color:Orange;">Handle Outliers</p> -Emma<br>
+     - <p style="color:SlateBlue;">Divide/Encode Numeric/Categorical</p> - Raphael<br>
    </td>
    <td>
      Goal: Building first model
-     - Plot for first impression - together<br>
-     - Merge and normalize data - Raphael<br>
-     - x-y /train-test split - Raphael<br>
-     - Choose and train model - Emma<br>
-     - Find design reference - Hong<br>
-     - Draw sketch of story - Hong<br>
+     <p style="color:Orange;">- Plot for first impression</p> - together<br>
+     - <p style="color:Yellow;">Merge and normalize data</p> - Raphael<br>
+     - <p style="color:Yellow;">x-y /train-test split</p> - Raphael<br>
+     - <p style="color:Yellow;">Choose and train model</p> - Emma<br>
+     - <p style="color:DodgerBlue;">Find design reference</p> - Hong<br>
+     - <p style="color:DodgerBlue;">Draw sketch of story</p> - Hong<br>
    </td>
    <td>
      Goal: Discuss Design / Second optimized model
-     - interpret model - Emma<br>
-     - Validate model (MSE, RMSE, R R²) - Emma<br>
-     - Optimzie data (outliers) - Emma<br>
-     - Clean notebook -Emma, Raphael <br>
-     - Reduce no. of coefficients - Raphael<br>
-     - Collect design materials - Hong<br>
-     - Ploting - Hong<br>
+     - <p style="color:Gray;">interpret model</p> - Emma<br>
+     - <p style="color:Gray;">Validate model</p> - Emma<br>
+     - <p style="color:MediumVioletRed;">Optimzie data</p> - Emma<br>
+     - <p style="color:MediumVioletRed;">Clean notebook</p> -Emma, Raphael <br>
+     - <p style="color:MediumVioletRed;">Reduce no. of coefficients</p> - Raphael<br>
+     - <p style="color:DodgerBlue;">Collect design materials</p> - Hong<br>
+     - <p style="color:DodgerBlue;">Ploting</p> - Hong<br>
   
    </td>
    <td>
      Goal: Visulataion (Tableau) / Adding additional Information
-     - Layout design - Hong<br>
-     - Sketch of the presentation - Emma / Raphael<br>
-     - Write text for presentation - Emma<br>
-     - Clean workbook - Raphael<br>
-     - Design presentation - Raphael<br>
-     - First version of presentation - Emma<br>
+     - <p style="color:DodgerBlue;">Layout design</p> - Hong<br>
+     - <p style="color:#66ffff;">Sketch of the presentation</p> - Emma / Raphael<br>
+     - <p style="color:#66ffff;">Write text for presentation</p> - Emma<br>
+     - <p style="color:MediumVioletRed;">Clean workbook</p> - Raphael<br>
+     - <p style="color:#66ffff;">Design presentation</p> - Raphael<br>
+     - <p style="color:#66ffff;">First version of presentation</p> - Emma<br>
       
    </td>
    <td
      Goal: Rehearsal
-     - Test function and data - Hong<br>
-     - Add final data/charts - Emma<br>
-     - Final version presentation - Raphael<br>
-     - Rehearsal of presentation
+     - <p style="color:DodgerBlue;">Test function and data</p> - Hong<br>
+     - <p style="color:#66ffff;">Add final data/charts</p> - Emma<br>
+     - <p style="color:#66ffff;">Final version presentation</p> - Raphael<br>
+     - <p style="color:#66ffff;">Rehearsal of presentation</p>
    </td>
    <td>
-     Presantation
+     <p style="color:#66ffff;">Presantation</p>
    </td>
   </tr>
 </table>

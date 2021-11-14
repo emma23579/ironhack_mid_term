@@ -35,7 +35,7 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 <p style="color:Gray;">Validate</p>
 <p style="color:DodgerBlue;">Visualization(Tableau)</p>
 <p style="color:MediumVioletRed;">Optimize Model/Workbook</p>
-<p style="color:#66ffff;">Presentation</p>
+![#66ffff]Presentation'#66ffff'
 <table>
   <tr>
    </td>

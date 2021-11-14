@@ -27,14 +27,7 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 ---
 ## 2 Timeline
 ##### Project topics:
-Data cleaning
-Explore Data
-Process Data
-Apply Model
-Validate
-Visualization(Tableau)
-Optimize Model/Workbook
-Preparing Presentation
+Data cleaning | Explore Data | Process Data | Apply Model | Validate Model | Visualization(Tableau) | Optimize Model/Workbook | Preparing Presentation
 
 
 | Weekend       | Monday         | Tuesday        |Wednesday      | Thursday      | Friday        |

@@ -25,39 +25,28 @@
    </td>
   </tr>
   <tr>
-   <td>Data cleaning - Hong<br>
+   <td>- Data cleaning - Hong<br>
      Steps of modeling<br>
      Initial data cleaning
-   </td>
-   <td>Project Plan - Raphael
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-     <td>Project Plan - Raphael
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-      <td>Explore Data - Emma <br>
+     - Project Plan - Raphael
+     - Explore Data - Emma <br>
   Handle Null/Nan-Values<br>
   Handel Outliers
+
+   </td>
+   <td>
+     -Divide/Encode Numeric/Categorical - Raphael
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+
+  </tr>
    </td>
    <td>Lecture
    </td>
@@ -71,7 +60,21 @@
    </td>
 
   </tr>
-      <td>Divide/Encode Numeric/Categorical - Raphael
+      <td>
+   </td>
+   <td>Lecture
+   </td>
+   <td>Break
+   </td>
+   <td>Lecture
+   </td>
+   <td>Weekly Retro
+   </td>
+   <td>Lecture
+   </td>
+
+  </tr>
+      <td>
    </td>
    <td>Lecture
    </td>

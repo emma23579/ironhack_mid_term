@@ -27,7 +27,7 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 
 #### 1.3 Timeline
 ##### Project topics:
-<font ="color:MediumSeaGreen;">Data cleaning</font >
+<font color ="MediumSeaGreen">Data cleaning</font >
 <p style="color:Orange;">Explore Data</p>
 <p style="color:SlateBlue;">Process Data</p>
 <p style="color:Yellow;">Apply Model</p>
@@ -92,7 +92,7 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
    </td>
    <td
      Goal: Rehearsal
-     - <p style="color:DodgerBlue;">Test function and data</p> - Hong<br>
+     - Test function and data- Hong<br>
      - <p style="color:#66ffff;">Add final data/charts</p> - Emma<br>
      - <p style="color:#66ffff;">Final version presentation</p> - Raphael<br>
      - <p style="color:#66ffff;">Rehearsal of presentation</p>

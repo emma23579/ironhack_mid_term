@@ -1,104 +1,47 @@
 # Midterm Project
 
 ## 1 Overview:
+
 #### 1.1 Team:
-- Emma
-- Hong
-- Raphael
+- Emma (E)
+- Hong (H)
+- Raphael (R)
+
 #### 1.2 Topic:
+**Life Expectancy**
+##### 1.2.1 Objective:
+- Build model that will predict the life expectancy based on features provided in the dataset
+- Explore which factors are responsible for higher life expectancy
+- Give recommendations to improve life expectancy in specific countries
+- - Does Life Expectancy habe a correlation with drinking alkonhol?
+##### 1.2.2 Data:
+Collected by World Health Organization (WHO) and United Nations (UN).
+The final dataset consists of 22 columns (20 predicting variables) and 2938 row containing data collected from the year 2000-2015 of 193 countries.
+All predicting variables were divided into the following broad categories:
+- Immunization related factors
+- Mortality factors
+- Economical factors
+- Social factors
+##### 1.2.3 Link to the Dataset:
+https://www.kaggle.com/kumarajarshi/life-expectancy-who
+---
+## 2 Timeline
+##### Project topics:
+Data cleaning | Explore Data | Process Data | Apply Model | Validate Model | Visualization(Tableau) | Optimize Model/Workbook | Preparing Presentation
 
-#### 1.3 Timeline
-<table>
-  <tr>
-   </td>
-   <td><b>Weekend</b>
-   </td>
-   <td><b>Monday</b>
-   </td>
-   <td><b>uesday</b>
-   </td>
-   <td><b>Wednesday</b>
-   </td>
-   <td><b>Thursday</b>
-   </td>
-   <td><b>Friday</b>
-   </td>
-  </tr>
-  <tr>
-   <td>Data cleaning - Hong<br>
-     Steps of modeling<br>
-     Initial data cleaning
-   </td>
-   <td>Project Plan - Raphael
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
 
-  </tr>
-     <td>Project Plan - Raphael
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
+| Weekend       | Monday         | Tuesday        |Wednesday      | Thursday      | Friday        |
+| ------------- |:--------------:|:--------------:|:-------------:|:-------------:|:-------------:|
+|              |Goal: Building first model|Goal: Discuss Design<br>Second optimized model     | Goal: Visulataion (Tableau)<br>Adding additional Information     | Goal: Rehearsal    |  Presentation | 
+|Steps of modeling -H|Divide/Encode Numeric/Categorical -R| interpret model - E    |Layout design - H     |Test function and data- H     |  | 
+| Initial data cleaning -H      | Plot first impression - together    | Validate model - E    | Sketch of the presentation - E/R    |Add final data/charts - E      |   | 
+| Project Plan - R | x-y /train-test split - R   |  Optimzie data - E  |Write text for presentation - E     | Final version presentation - R    |   | 
+| Handle Null/Nan-Values -E|x-y /train-test split - R  | Clean notebook -E/R    |Clean workbook - R     |  Rehearsal of presentation   |   | 
+| Handle Outliers -E|Choose and train model - E     |Reduce no. of coefficients - R     | Design presentation - R    |   | 
+||Find design reference - H|Collect design materials - H|1st version of presentation - E||
+||Draw sketch of story - H|Ploting - H|||
 
-  </tr>
-      <td>Explore Data - Emma <br>
-  Handle Null/Nan-Values<br>
-  Handel Outliers
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-      <td>Divide/Encode Numeric/Categorical - Raphael
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-       <td>
-   </td>
-   <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture
-   </td>
-   <td>Weekly Retro
-   </td>
-   <td>Lecture
-   </td>
-
-  </tr>
-</table>
+legend: E = Emma | H = Hong | R = Raphael
+  
 
 

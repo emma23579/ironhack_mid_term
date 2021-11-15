@@ -41,6 +41,7 @@ Data cleaning | Explore Data | Process Data | Apply Model | Validate Model | Vis
 ||Find design reference - H|Collect design materials - H|1st version of presentation - E||
 ||Draw sketch of story - H|Ploting - H|||
 
+legend: E = Emma | H = Hong | R = Raphael
   
 
 

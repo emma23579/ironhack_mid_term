@@ -13,7 +13,16 @@
 - Build model that will predict the life expectancy based on features provided in the dataset
 - Explore which factors are responsible for higher life expectancy
 - Give recommendations to improve life expectancy in specific countries
-- - Does Life Expectancy habe a correlation with drinking alkonhol?
+###### Adressed Questions: 
+    - Does various predicting factors which has been chosen initially really affect the Life expectancy? What are the predicting variables actually affecting the life expectancy?
+    - Should a country having a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan?
+    - How does Infant and Adult mortality rates affect life expectancy?
+    - Does Life Expectancy has positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc.
+    - What is the impact of schooling on the lifespan of humans?
+    - Does Life Expectancy have positive or negative relationship with drinking alcohol?
+    - Do densely populated countries tend to have lower life expectancy?
+    - What is the impact of Immunization coverage on life Expectancy?
+
 ##### 1.2.2 Data:
 Collected by World Health Organization (WHO) and United Nations (UN).
 The final dataset consists of 22 columns (20 predicting variables) and 2938 row containing data collected from the year 2000-2015 of 193 countries.
@@ -24,7 +33,8 @@ All predicting variables were divided into the following broad categories:
 - Social factors
 ##### 1.2.3 Link to the Dataset:
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
----
+
+
 ## 2 Timeline
 ##### Project topics:
 Data cleaning | Explore Data | Process Data | Apply Model | Validate Model | Visualization(Tableau) | Optimize Model/Workbook | Preparing Presentation

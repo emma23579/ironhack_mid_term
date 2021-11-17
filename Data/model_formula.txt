@@ -1,0 +1,1 @@
+0 + -0.0187 * infant_deaths + -0.0225 * hepatitis_b + 0.0342 * measles + 0.1478 * polio + -0.4182 * hiv_aids + 0.2385 * gdp + 0.4617 * schooling

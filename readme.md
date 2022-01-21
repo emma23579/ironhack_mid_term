@@ -32,6 +32,9 @@ All predicting variables were divided into the following broad categories:
 ##### 1.2.3 Link to the Dataset:
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
 
+##### 1.2.3 Link to tableau presentation:
+https://public.tableau.com/views/MidTermUpdated/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 ## 2 Timeline
 ##### Project topics:
